@@ -25,7 +25,7 @@ body{
   background-color: #F0F8FF;
   display: flex;
   justify-content: space-evenly;
-  flex-direction:row;
+  flex-direction:row-reverse;
   text-align: left;
   flex-wrap: wrap;
 }
